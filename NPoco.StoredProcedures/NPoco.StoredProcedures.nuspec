@@ -3,10 +3,9 @@
   <metadata>
     <id>$id$</id>
     <version>$version$</version>
-    <title>NPoco.StoredProcedures</title>
-    <authors>Simon Colmer</authors>
-    <owners>Simon Colmer</owners>
-    <licenseUrl>http://LICENSE_URL_HERE_OR_DELETE_THIS_LINE</licenseUrl>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
     <projectUrl>https://github.com/Workshop2/NPoco.StoredProcedures</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>$description$</description>

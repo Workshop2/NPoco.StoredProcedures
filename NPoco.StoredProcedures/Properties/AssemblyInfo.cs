@@ -5,9 +5,9 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("NPoco.StoredProcedures")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Basic class for querying stored procedures")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("X-Volt Studios")]
 [assembly: AssemblyProduct("NPoco.StoredProcedures")]
 [assembly: AssemblyCopyright("Copyright ©  2014")]
 [assembly: AssemblyTrademark("")]
