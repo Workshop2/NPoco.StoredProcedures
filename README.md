@@ -8,7 +8,7 @@ Basic class for querying stored procedures
 Example Usage
 =============
 
-''''c#
+```c#
         public IEnumerable<MonthTotal> TotalForMonthInterval(ValueQueryResult queryResult, int startMonthId, int endMonthId)
         {
             IDatabase database = _databaseFactory.GetDatabase();
@@ -20,4 +20,4 @@ Example Usage
             IEnumerable<MonthTotal> result = database.QueryStoredProcedure<MonthTotal>("[Aggregation].[Total_Months]", valueIdsParams, startMonthParam, endMonthParam);
             return result;
         }
-''''
+```
