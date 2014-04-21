@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A7CA8450-AFDD-4317-8615-9A2A74D79D77}</ProjectGuid>
+    <ProjectGuid>{44AA5958-21C4-4A77-892F-4C18AC7F4B75}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>NPoco.StoredProcedures</RootNamespace>
@@ -31,7 +31,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="NPoco">
-      <HintPath>packages\NPoco.2.2.49\lib\net40\NPoco.dll</HintPath>
+      <HintPath>..\packages\NPoco.2.2.49\lib\net40\NPoco.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Configuration" />
