@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>NPoco.StoredProcedures</title>
+    <authors>Simon Colmer</authors>
+    <owners>Simon Colmer</owners>
+    <licenseUrl>http://LICENSE_URL_HERE_OR_DELETE_THIS_LINE</licenseUrl>
+    <projectUrl>https://github.com/Workshop2/NPoco.StoredProcedures</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>Initial Release.</releaseNotes>
+    <copyright>Copyright 2014</copyright>
+    <tags>Npoco PetaPoco stored procedures tsql</tags>
+  </metadata>
+</package>
