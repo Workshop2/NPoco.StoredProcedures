@@ -3,6 +3,7 @@ NPoco.StoredProcedures
 
 Basic class for querying stored procedures
 
+__Install-Package NPoco.StoredProcedures__
 
 
 Example Usage
