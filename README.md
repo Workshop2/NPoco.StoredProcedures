@@ -1,7 +1,7 @@
 NPoco.StoredProcedures
 ======================
 
-Basic class for querying stored procedures
+__Fully tested__ extension methods for querying Stored Procedures with NPoco.
 
 __Install-Package NPoco.StoredProcedures__
 
