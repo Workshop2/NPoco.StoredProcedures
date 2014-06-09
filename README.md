@@ -7,7 +7,6 @@ __Install-Package NPoco.StoredProcedures__
 
 [![Build status](https://ci.appveyor.com/api/projects/status/kbf7dgdaekxnd714)](https://ci.appveyor.com/project/Workshop2/npoco-storedprocedures)
 
-
 Example Usage
 =============
 
